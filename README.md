@@ -3,16 +3,16 @@ TempleEase is a Java-based temple management system that allows devotees to book
 Features-
 
 For Devotees:
-Book darshan slots online
-Make secure donations
-View temple schedules and events
+Book darshan slots online,
+Make secure donations,
+View temple schedules and events.
 
 For Admins:
-Manage devotee registrations
-Approve or modify darshan bookings
-Track and manage donations
+Manage devotee registrations,
+Approve or modify darshan bookings,
+Track and manage donations.
 
 Technologies Used:
-Frontend: HTML,CSS,JS
-Backend: Java
-Database: MySQL
+Frontend: HTML,CSS,JS,
+Backend: Java,
+Database: MySQL.
